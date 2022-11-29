@@ -1,0 +1,6 @@
+framework module Pods_IonicTryoutTests {
+  umbrella header "Pods-IonicTryoutTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
